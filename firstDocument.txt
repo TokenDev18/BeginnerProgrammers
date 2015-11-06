@@ -1,3 +1,4 @@
 This our first sentence. Added by branchTwo. 
-Im adding another sentence. 
-This is a new sentence by branchTwo. 
+Im adding another sentence
+This was a new line added by branchOne
+
